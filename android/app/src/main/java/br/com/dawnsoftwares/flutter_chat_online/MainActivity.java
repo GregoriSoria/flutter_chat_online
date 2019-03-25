@@ -1,4 +1,4 @@
-package com.example.flutter_chat_online;
+package br.com.dawnsoftwares.flutter_chat_online;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
